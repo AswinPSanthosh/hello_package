@@ -1,4 +1,4 @@
-library hello_world_package;
+library hello_world;
 
 import 'package:flutter/material.dart';
 
